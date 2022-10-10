@@ -1,0 +1,8 @@
+Haciendo un resumen a grandes rasgos los scripts se usan para automatizar tareas y asi no tener que repetirlas una y otra vez.
+
+Comenzaremos abriendo el editor de texto predeterinado que venga en nuestra distro de Linux, y crearemos un fichero de texto que tenga por ruta la ruta 
+donde queramos tener el script.
+Lo nombraremos como queramos, pero con la extensión ".sh" y para que sea reconocido como script debemos escribir "#!/bin/bash" en la primera línea.
+(Todo esto sin las "")
+Ahora, escribiremos los comandos, uno detrás de otro como si estuvieramos en la terminal.
+
